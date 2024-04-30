@@ -1,4 +1,4 @@
-package Models;
+package Modules;
 
 public enum GateType {
     ENTRY,
